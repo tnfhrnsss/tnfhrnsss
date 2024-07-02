@@ -1,4 +1,4 @@
 ### Blog ☔ 🏖️    ✈️🥯🦎
 
-[🏠](https://tnfhrnsss.github.io/)
+[🏠](https://tnfhrnsss.github.io/){:target="_blank"}
 
