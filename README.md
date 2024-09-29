@@ -2,9 +2,9 @@
 ### About Me!
 
 - web application developer
-- interested in developing fun things
+- interested in developing fun things 🤓
 
 
-### Blog ☔ 🏖️    ✈️🥯🦎
+### Blog
 [🏠](https://tnfhrnsss.github.io/)
 
