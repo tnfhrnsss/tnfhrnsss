@@ -5,15 +5,12 @@ With over 15 years of experience in backend development, I specialize in buildin
 
 🧠 I lead agile sprints, manage AS support workflows, and design intelligent automation for message routing, API lifecycle management, and chatbot-assisted customer service.  
 
-💡 I'm currently exploring something to enhance geolocation-based services — like real-time shadow tracking. 🤓
-
 📚 I enjoy contributing to developer knowledge via documentation, automation tips, and blogging — and I’m looking to contribute to open-source projects with low entry barriers.
 
 ---
 
 🔧 **Current Stack**: Spring Boot, Kafka, Elasticsearch, Hazelcast, React, Python  
-📦 **Exploring**: AI/NLP for customer intent, Open Source contribution  
-🌐 **Recent Projects**: Real-time shade prediction map, Multi-channel messenger integration, Versioned API search portal
+📦 **Exploring**: Open Source contribution  
 
 ---
 
