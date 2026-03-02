@@ -9,7 +9,6 @@
 - 💼 **Role** : Full-Stack Developer (Backend-heavy)
 - 🔭 **Focus** : Java / Spring Boot / MSA / DevOps Automation
 - 📖 **Currently Learning** : AI Agent, LangGraph, RAG
-- 🏆 **Certifications** : 정보보안기사 (2025-ing), CPPG (2025)
 - 📝 **Blog** : 실무에서 마주친 문제와 해결 과정을 기록합니다 → [tnfhrnsss.github.io](https://tnfhrnsss.github.io/)
 
 ---
