@@ -9,7 +9,7 @@
 
 ## 📱 Apps
   - **[Knowho](https://apps.apple.com/app/id6760998976)** — 연락처에 저장하지 않아도 전화 올 때 이름을 띄워주는 iOS 발신자
-  표시 앱 · Swift/SwiftUI, CallKit · 완전 오프라인
+  - 소개 영상: [한국어](유튜브링크) · [English](유튜브링크)
 
 ## 🔗 Links
 [Blog](https://tnfhrnsss.github.io/) · [LinkedIn](https://www.linkedin.com/in/jj-8271542a2)
