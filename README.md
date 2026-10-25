@@ -8,7 +8,7 @@
 | [elasticsearch-log-notifier](https://github.com/tnfhrnsss/elasticsearch_log_notifier) | ES 로그 예외 발생 시 Slack 채널 알림 | 2026.09 |
 
 ## 🤝 Open Source
-- [stablyai/orca](https://github.com/stablyai/orca) — 버그 수정 및 기능 제안으로 기여 중
+- [stablyai/orca](https://github.com/stablyai/orca) : 버그 수정 및 기능 제안으로 기여 중
 
 
 ## 📱 Apps
